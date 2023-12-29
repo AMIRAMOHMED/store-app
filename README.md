@@ -7,11 +7,13 @@ A dedicated store app focusing on API interactions. The app facilitates seamless
 
 Key Learnings:
 
-API Handling: In-depth understanding of API interactions, especially with Postman.
-HTTP Package: Proficiency in utilizing the HTTP package for effective communication with APIs.
-Product Retrieval: Learned how to retrieve products from Postman for display in the app.
-Product Management: Developed features enabling users to edit and add products for enhanced functionality.
-
+API Handling: Proficient use of Postman for effective API interactions.
+HTTP Package Utilization: Skillful application of the HTTP package for streamlined communication.
+Product Retrieval: Successfully retrieving products, enhancing data retrieval capabilities.
+Effective Product Management: Developed skills in managing products, including editing and adding functionality.
+Understanding HTTP Methods: Comprehensive grasp of GET, POST, and PUT methods for diverse API interactions.
+Displaying Data: Enhanced proficiency in displaying data, improving user interface design.
+Leveraging Postman Collections: Advanced knowledge in utilizing Postman collections for efficient API testing and management
 ## Getting Started
 
 This project is a starting point for a Flutter application.
